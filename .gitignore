@@ -1,0 +1,6 @@
+/fe-gui
+node_modules/
+/dist
+.idea/
+.vscode/
+/*.log
